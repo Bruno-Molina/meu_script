@@ -1,3 +1,4 @@
+
 # Recebendo dados do usuário
 num1 = float(input("insira um número:  "))
 operacao = input("Escolha a operação (+, -, *, /, //): ")
